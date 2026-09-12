@@ -1,0 +1,8 @@
+.nextflow/
+.nextflow.*
+work/
+results/
+*.dcd
+*.xtc
+*.coor
+*.vel
